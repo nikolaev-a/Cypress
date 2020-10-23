@@ -1,4 +1,4 @@
 # Project exclude paths
 .git
 .idea/*
-node_modules.idea
+.node_modules
