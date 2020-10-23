@@ -2,7 +2,7 @@ import testFile from '../../fixtures/testFile.json';
 import cypress  from "../../../cypress.json";
 describe('test', () => {
     before( () => {
-        cy.visit(cypress.baseUrl);
+        cy.visit(cypress.urlLS);
     });
 
     it('go to login page', () => {

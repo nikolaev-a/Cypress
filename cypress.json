@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://stage.localcoding.us"
+  "urlLS": "https://stage.localcoding.us",
+  "urlDQ": "https://www.demoqa.com/"
 }
